@@ -12,7 +12,7 @@ BASE_URL = "https://www.ssw.theofferclub.in"
 OTP_ENDPOINT = f"{BASE_URL}/home/generateOTP"
 TEST_MOBILE = "9738772627" 
 
-NUM_CODES = 300             # Adjust as needed
+NUM_CODES = 99999             # Adjust as needed
 MAX_WORKERS = 10             # 8-12 is optimal
 DELAY_PER_THREAD = 0.7
 
