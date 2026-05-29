@@ -10,7 +10,7 @@ from threading import Lock
 # ================== CONFIGURATION ==================
 BASE_URL = "https://www.ssw.theofferclub.in"
 OTP_ENDPOINT = f"{BASE_URL}/home/generateOTP"
-TEST_MOBILE = "9738772627" 
+TEST_MOBILE = "7858565656" 
 
 NUM_CODES = 99999             # Adjust as needed
 MAX_WORKERS = 10             # 8-12 is optimal
